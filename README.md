@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou o Lucas Bispo
+- 👀 Interessado em assuntos de Backend, especialmente C#, Node e Python
+- 🌱 Estudando Arquitetura de Soluções
+- ⚡ Fatos Curisoso, também gosto muito de mecânica
